@@ -10,3 +10,7 @@
 Play it here: https://2mindrillgame.org/
 
 Disclosure: I'm the developer of 2 Minute Drill.
+
+
+## Other browser game projects I made
+- [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - my unofficial fan wiki for the PokéBonk browser survivor game: play in the browser, Pokédex, guides, tier list maker and type chart.
